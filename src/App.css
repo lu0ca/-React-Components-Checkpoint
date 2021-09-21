@@ -1,0 +1,18 @@
+
+body{
+  height: 700px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: linear-gradient(#83a4d4, #b6fbff) ;
+}
+
+.App {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  border-radius: 10px;
+  width: 600px;
+  height: 350px; 
+ background-color: #fbd3e9;
+}
